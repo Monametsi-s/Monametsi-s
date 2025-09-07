@@ -17,7 +17,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Learner+Official;Always+Learning;Future+Innovator;Open+to+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Always+Learning;Future+Innovator;Open+to+Collaboration" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
