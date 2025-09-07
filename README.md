@@ -1,12 +1,12 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Monametsi Seele | Learner Official" width="100%"/>
+  <img src="./banner.png" alt="Monametsi Seele | Aspiring Software Engineer" width="100%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Monametsi 👋</h1>
 <p align="center">
-  <em>Learner Official • Always Learning • Future Innovator</em>
+  <em>Aspiring Software Engineer • Always Learning • Future Innovator</em>
 </p>
 
 <p align="center">
