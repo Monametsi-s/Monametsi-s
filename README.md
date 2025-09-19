@@ -1,9 +1,3 @@
-
-<!-- Banner -->
-<p align="center">
-  <img src="./banner.png" alt="Monametsi Seele | Aspiring Software Engineer" width="100%"/>
-</p>
-
 <h1 align="center">Hi there, I'm Monametsi 👋</h1>
 <p align="center">
   <em>Aspiring Software Engineer • Always Learning • Future Innovator</em>
@@ -31,7 +25,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 📊 GitHub Analytics
 <p align="center">
