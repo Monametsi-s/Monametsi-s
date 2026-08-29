@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Monametsi 👋</h1>
 <p align="center">
-  <em>Aspiring Software Engineer • Always Learning • Future Innovator</em>
+  <em>Aspiring Software Engineer • Always Learning • Innovator</em>
 </p>
 
 <p align="center">
