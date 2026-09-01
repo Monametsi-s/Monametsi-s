@@ -27,14 +27,14 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Analytics
-<-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Monametsi-s&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monametsi-s&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Monametsi-s&theme=radical" height="165"/>
-</p> -->
+</p>
 
 <!-- Activity Graph -->
 <p align="center">
