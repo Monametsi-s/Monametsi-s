@@ -11,7 +11,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines= Innovative+Engineer;Always+Learning;Future+Innovator;Open+to+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Innovative+Engineer;Always+Learning;Future+Innovator;Open+to+Collaboration" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
@@ -27,7 +27,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Analytics
-<!-- <p align="center">
+<-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Monametsi-s&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monametsi-s&layout=compact&theme=radical" height="165"/>
 </p>
