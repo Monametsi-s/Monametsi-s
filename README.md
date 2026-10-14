@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 - 🌱 Currently growing my technical and leadership skills
-- 🎯 Goal: Make impactful contributions to my society and country
+- 🎯 Goal: Make impactful contributions to my society, country and the world at large
 - 🤝 Open to collaborating on challenging projects
 
 ## 🛠️ Tech Stack
